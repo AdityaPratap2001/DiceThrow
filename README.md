@@ -1,5 +1,5 @@
 # DiceThrow
-Just a simple game implementing JavaScript
+Just a simple game implementing JavaScript : https://adityapratap2001.github.io/DiceThrow/
 
 1. The player rolls the dice.
 2. Whatever comes up is added to current best score.
